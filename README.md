@@ -34,4 +34,4 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 ## Number of Stars collected
 
-:star2: 4/50 :star2:
+:star2: 6/50 :star2:
