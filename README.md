@@ -6,7 +6,7 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 * **Day 1:** :notes: NAAR LINKS! :notes: NAAR RECHTS! :notes: |  :star2: :star2:
 * **Day 2:** NUCLEAR MELTDOWN! | :star2: :star2:
-* **Day 3:**
+* **Day 3:** Corruption level: high. | :star2: :star2:
 * **Day 4:**
 * **Day 5:**
 * **Day 6:**
