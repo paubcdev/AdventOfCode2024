@@ -23,7 +23,7 @@ for line in lines:
     # addendum for part 2
     good = False
     for j in range(len(xs1)):
-        xs = xs1[:j] + xs1[j + 1 :]
+        xs = xs1[:j] + xs1[j + 1:]
         if is_good(xs):
             good = True
     if good:
