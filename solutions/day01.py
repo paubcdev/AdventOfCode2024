@@ -23,7 +23,7 @@ LEFT_COL = sorted(LEFT_COL)
 RIGHT_COL = sorted(RIGHT_COL)
 
 for left, right in zip(LEFT_COL, RIGHT_COL):
-    part1 += abs(right-left)
+    part1 += abs(right - left)
 
 print(part1)
 
