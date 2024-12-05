@@ -1,0 +1,3 @@
+inputs/*
+.pre-commit-config.yaml
+requirements.txt
