@@ -10,7 +10,7 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 4:** Word salad. | :star2: :star2:
 * **Day 5:** Who else hates printers? | :star2: :star2:
 * **Day 6:** Back... to the Past? | :star2: :star2:
-* **Day 7:**
+* **Day 7:** Bridge of DoOooOOomM... again. | :star2: :star2:
 * **Day 8:**
 * **Day 9:**
 * **Day 10:**
@@ -34,4 +34,4 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 ## Number of Stars collected
 
-:star2: 12/50 :star2:
+:star2: 14/50 :star2:
