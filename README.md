@@ -12,7 +12,7 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 6:** Back... to the Past? | :star2: :star2:
 * **Day 7:** Bridge of DoOooOOomM... again. | :star2: :star2:
 * **Day 8:** Like matter and anti matter. | :star2: :star2:
-* **Day 9:**
+* **Day 9:** Deep-sea file system. | :star2: :star2:
 * **Day 10:**
 * **Day 11:**
 * **Day 12**
@@ -34,4 +34,4 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 ## Number of Stars collected
 
-:star2: 16/50 :star2:
+:star2: 18/50 :star2:
