@@ -13,9 +13,9 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 7:** Bridge of DoOooOOomM... again. | :star2: :star2:
 * **Day 8:** Like matter and anti matter. | :star2: :star2:
 * **Day 9:** Deep-sea file system. | :star2: :star2:
-* **Day 10:**
+* **Day 10:** Reindeers like to go hiking. | :star2: :star2:
 * **Day 11:**
-* **Day 12**
+* **Day 12:**
 * **Day 13:**
 * **Day 14:**
 * **Day 15:**
@@ -34,4 +34,4 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 ## Number of Stars collected
 
-:star2: 18/50 :star2:
+:star2: 20/50 :star2:
