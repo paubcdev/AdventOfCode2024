@@ -1,6 +1,5 @@
 inputs/*
 .pre-commit-config.yaml
-requirements.txt
 pyvenv.cfg
 lib
 lib64
