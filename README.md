@@ -16,7 +16,7 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 10:** Reindeers like to go hiking. | :star2: :star2:
 * **Day 11:** But Pluto isn't a planet...? | :star2: :star2:
 * **Day 12:** Advanced farming! | :star2: :star2:
-* **Day 13:**
+* **Day 13:** You look, I keep gambling | :star2: :star2:
 * **Day 14:**
 * **Day 15:**
 * **Day 16:**
@@ -34,4 +34,4 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 ## Number of Stars collected
 
-:star2: 24/50 :star2:
+:star2: 26/50 :star2:
