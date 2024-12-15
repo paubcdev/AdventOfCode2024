@@ -18,7 +18,7 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 12:** Advanced farming! | :star2: :star2:
 * **Day 13:** You look, I keep gambling | :star2: :star2:
 * **Day 14:** Robot Wars got nothing on them. | :star2: :star2:
-* **Day 15:**
+* **Day 15:** Warehouse automaton, but underwater. | :star2: :star2:
 * **Day 16:**
 * **Day 17:**
 * **Day 18:**
@@ -34,4 +34,4 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 ## Number of Stars collected
 
-:star2: 28/50 :star2:
+:star2: 30/50 :star2:
