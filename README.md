@@ -20,7 +20,7 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 14:** Robot Wars got nothing on them. | :star2: :star2:
 * **Day 15:** Warehouse automaton, but underwater. | :star2: :star2:
 * **Day 16:**
-* **Day 17:**
+* **Day 17:** Why are we doing 3 bits again? | :star2: :star2:
 * **Day 18:**
 * **Day 19:**
 * **Day 20:**
@@ -34,4 +34,4 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 ## Number of Stars collected
 
-:star2: 30/50 :star2:
+:star2: 32/50 :star2:
