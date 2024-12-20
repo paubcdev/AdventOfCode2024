@@ -23,7 +23,7 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 17:** Why are we doing 3 bits again? | :star2: :star2:
 * **Day 18:** Is this Tetris? | :star2: :star2:
 * **Day 19:** No money? Yes towels! | :star2: :star2:
-* **Day 20:**
+* **Day 20:** Cheating encouraged, thanks. | :star2: :star2:
 * **Day 21:**
 * **Day 22:**
 * **Day 23:**
@@ -34,4 +34,4 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 ## Number of Stars collected
 
-:star2: 38/50 :star2:
+:star2: 40/50 :star2:
