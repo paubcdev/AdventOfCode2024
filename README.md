@@ -24,7 +24,7 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 18:** Is this Tetris? | :star2: :star2:
 * **Day 19:** No money? Yes towels! | :star2: :star2:
 * **Day 20:** Cheating encouraged, thanks. | :star2: :star2:
-* **Day 21:**
+* **Day 21:** Unsolved
 * **Day 22:**
 * **Day 23:**
 * **Day 24:**
