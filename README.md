@@ -26,7 +26,7 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 20:** Cheating encouraged, thanks. | :star2: :star2:
 * **Day 21:** Unsolved
 * **Day 22:** Monkey business. | :star2: :star2:
-* **Day 23:**
+* **Day 23:** Let's party like it's the 2000s | :star2: :star2:
 * **Day 24:**
 * **Day 25:**
 
@@ -34,4 +34,4 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 ## Number of Stars collected
 
-:star2: 42/50 :star2:
+:star2: 44/50 :star2:
