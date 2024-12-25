@@ -36,6 +36,12 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 
 :star2: 50/50 :star2:
 
+---
+
+![2024 compleated calendar](images/2024.png)
+
+---
+
 ## Notes
 
 Days 21 and 24 were solved using outside help, re: copying from others. ^^'
