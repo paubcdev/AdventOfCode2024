@@ -24,14 +24,18 @@ This will be the logfile for my 2024 attempt at the 2024 Advent of Code.
 * **Day 18:** Is this Tetris? | :star2: :star2:
 * **Day 19:** No money? Yes towels! | :star2: :star2:
 * **Day 20:** Cheating encouraged, thanks. | :star2: :star2:
-* **Day 21:** Unsolved
+* **Day 21:** | :star2: :star2:
 * **Day 22:** Monkey business. | :star2: :star2:
 * **Day 23:** Let's party like it's the 2000s | :star2: :star2:
-* **Day 24:**
-* **Day 25:**
+* **Day 24:** | :star2: :star2:
+* **Day 25:** I was here the whoole time. | :star2: :star2:
 
 ---
 
 ## Number of Stars collected
 
-:star2: 44/50 :star2:
+:star2: 50/50 :star2:
+
+## Notes
+
+Days 21 and 24 were solved using outside help, re: copying from others. ^^'
